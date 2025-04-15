@@ -1,0 +1,5 @@
+fastapi[all]
+sqlalchemy
+aiosqlite
+tronpy
+pytest

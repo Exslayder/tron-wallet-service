@@ -1,0 +1,10 @@
+# Python
+.pytest_cache
+__pycache__
+
+# Base DB
+*.db
+
+# Env files
+*.env
+
